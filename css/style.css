@@ -53,13 +53,6 @@ img {
   object-fit : cover;
 }
 
-.cs3744img {
-  object-position: 10% 50%;
-  width: 100%;
-  height : 50vh;
-  object-fit : cover;
-}
-
 .wrapper {
   max-width: 1150px;
   margin: auto;
